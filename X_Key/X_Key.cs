@@ -29,7 +29,11 @@ namespace X_Key
         private const int WM_KEYUP = 0x101;
 
         
-           
+          /// <summary>
+          /// 测试git
+          /// </summary>
+          /// <param name="character"></param>
+          /// <returns></returns>
 
         public static int Asc(string character)
         {
